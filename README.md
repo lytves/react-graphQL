@@ -4,6 +4,8 @@
 
 Project was created following the article [Your First React GraphQL Frontend with the Apollo Client: A Gentle Introduction](https://buttondown.email/devtuts/archive/your-first-react-graphql-frontend-with-the-apollo/)
 
+Check it out the DEMO-version: [https://lytves.github.io/react-graphQL/](https://lytves.github.io/react-graphQL/)
+
 + ## Getting Started with React GraphQL Frontend with the Apollo Client:
 
 Install Apollo client as project dependency. Let’s do that with yarn.
