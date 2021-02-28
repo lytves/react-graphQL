@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lytves/react-graphQL/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lytves/react-graphQL/static/js/main.87a4e5d6.chunk.js",
+    "main.js.map": "/lytves/react-graphQL/static/js/main.87a4e5d6.chunk.js.map",
+    "runtime-main.js": "/lytves/react-graphQL/static/js/runtime-main.4cde5732.js",
+    "runtime-main.js.map": "/lytves/react-graphQL/static/js/runtime-main.4cde5732.js.map",
+    "static/js/2.4b4d2627.chunk.js": "/lytves/react-graphQL/static/js/2.4b4d2627.chunk.js",
+    "static/js/2.4b4d2627.chunk.js.map": "/lytves/react-graphQL/static/js/2.4b4d2627.chunk.js.map",
+    "static/js/3.aeb5dfdb.chunk.js": "/lytves/react-graphQL/static/js/3.aeb5dfdb.chunk.js",
+    "static/js/3.aeb5dfdb.chunk.js.map": "/lytves/react-graphQL/static/js/3.aeb5dfdb.chunk.js.map",
+    "index.html": "/lytves/react-graphQL/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lytves/react-graphQL/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4b4d2627.chunk.js.LICENSE.txt": "/lytves/react-graphQL/static/js/2.4b4d2627.chunk.js.LICENSE.txt",
+    "static/media/SpaceX-Logo.10aced87.svg": "/lytves/react-graphQL/static/media/SpaceX-Logo.10aced87.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cde5732.js",
+    "static/js/2.4b4d2627.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.87a4e5d6.chunk.js"
+  ]
+}
